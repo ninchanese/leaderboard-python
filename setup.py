@@ -9,7 +9,7 @@ requirements = [req.strip() for req in open('requirements.pip')]
 
 setup(
   name = 'ninchanese-leaderboard',
-  version = "3.7.3",
+  version = "3.7.4",
   author = 'David Czarnecki',
   author_email = "dczarnecki@agoragames.com",
   packages = ['leaderboard'],
