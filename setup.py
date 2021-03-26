@@ -18,6 +18,7 @@ setup(
   license = "LICENSE.txt",
   description = 'Leaderboards backed by Redis in Python',
   long_description = open('README.md').read(),
+  long_description_content_type='text/markdown',
   keywords = ['python', 'redis', 'leaderboard'],
   classifiers = [
     'Development Status :: 5 - Production/Stable',
